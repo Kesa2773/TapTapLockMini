@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'TapTapLockMini' target in the 'TapTapLockMini' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

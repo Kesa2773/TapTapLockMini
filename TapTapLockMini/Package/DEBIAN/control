@@ -1,0 +1,11 @@
+Package: com.kasper.taptaplockmini
+Name: TapTapLockMini
+Version: 1.0
+Description: mini tweak that allows to lock the screen by double tapping
+Section: Tweaks
+Depends: firmware (>= 12.0), mobilesubstrate
+Priority: optional
+Architecture: iphoneos-arm
+Author: Artem Kasper
+dev: Kasper_2773
+Installed-size: PACKAGE_SIZE
